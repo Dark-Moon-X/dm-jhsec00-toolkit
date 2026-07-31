@@ -15,6 +15,7 @@
 
 | 도구명        | 설명                                                                         |
 |----------------|------------------------------------------------------------------------------|
+| [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | AI 기반 자율 모의해킹 플랫폼, 셀프호스팅, MCP 서버 내장, 웹/API/AD/쿠버네티스 자동 진단 지원 |
 | [Burp Suite](https://portswigger.net/burp/communitydownload) | 웹 요청 가로채기 및 취약점 진단 도구 (Community Edition) |
 | [Fiddler](https://www.telerik.com/fiddler)                  | 웹 트래픽 분석 및 디버깅 프록시 도구                                       |
 | [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) | 자바 기반 웹 앱 분석 시 필요한 JDK 환경 |
